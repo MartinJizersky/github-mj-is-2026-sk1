@@ -3,8 +3,7 @@
 // Řidící cyklus programu
 // ToLower() převede vstup na malá písmena, takže program pokračuje při zadání "a" i "A" 
 // Jakýkoli jiný vstup program ukončí
-while(again.ToLower() == "a")
-{
+while(again.ToLower() == "a"){
     Console.Clear();
     Console.WriteLine("***************************");
     Console.WriteLine("******* Výpis řady ********");
@@ -45,6 +44,20 @@ while(again.ToLower() == "a")
     Console.WriteLine("====================================================");
     Console.WriteLine();
     Console.WriteLine();
+
+
+    // Výpis řady
+    Console.WriteLine("===== Výpis řady =====");
+    if(first <= last){
+        int current = first;
+        while(current <= last){
+            Console.WriteLine(current);
+            current += step;
+        }
+    } else {
+        Console.WriteLine("První číslo je větší než poslední.");
+        Console.WriteLine("Tento program musí vypsat vzestupnou řadu (od menšího k většímu).");
+    }
 
 
     // Dotaz směrem k uživateli na opakování
