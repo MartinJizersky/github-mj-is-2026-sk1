@@ -37,8 +37,18 @@ while(again.ToLower() == "a")
         Console.Write("Nezadali jste kladné celé číslo. Zadejte diferenci znovu:  ");
     }
 
+    // Rekapitulace zadaných hodnot
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.WriteLine("====================================================");
+    Console.WriteLine($"První číslo: {first}, poslední číslo: {last}, diference: {step}");
+    Console.WriteLine("====================================================");
+    Console.WriteLine();
+    Console.WriteLine();
+
+
     // Dotaz směrem k uživateli na opakování
-    Console.WriteLine("");
     Console.Write("Pro opakování programu stiskněte klávesu a. Následně potvrďte klávesou Enter:  ");
     again = Console.ReadLine() ?? "";
+
 }
