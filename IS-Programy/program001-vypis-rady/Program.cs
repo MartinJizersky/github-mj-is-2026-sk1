@@ -19,6 +19,10 @@ while(again.ToLower() == "a")
         Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu:  ");
     }
 
+    // Vstup počáteční hodnoty - špatně řešený
+    // Console.Write("Zadejte první číslo řady: ");
+    // int first = int.Parse(Console.ReadLine());
+
     // Načtení koncové hodnoty
     Console.Write("Zadejte poslední číslo řady (celé číslo):  ");
     int last;
