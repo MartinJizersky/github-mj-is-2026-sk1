@@ -7,16 +7,16 @@ string again = "a";
 // Jakýkoli jiný vstup program ukončí
 while(again.ToLower() == "a"){
     Console.Clear();
-    Console.WriteLine("***************************");
-    Console.WriteLine("******* Název programu ********");
-    Console.WriteLine("***************************");
-    Console.WriteLine("***** Martin Jizerský *****");
-    Console.WriteLine("***************************");
+    Console.WriteLine("*******************************");
+    Console.WriteLine("******* Ciferný součet ********");
+    Console.WriteLine("*******************************");
+    Console.WriteLine("******* Martin Jizerský *******");
+    Console.WriteLine("*******************************");
 
     // Načtení hodnoty
-    Console.Write("Zadejte první číslo řady (celé číslo):  ");
-    int aaa;
-    while(!int.TryParse(Console.ReadLine(), out aaa)){
+    Console.Write("Zadejte celé číslo:  ");
+    int number;
+    while(!int.TryParse(Console.ReadLine(), out number)){
         Console.Write("Nezadali jste celé číslo. Zadejte číslo znovu:  ");
     }
 
@@ -34,12 +34,17 @@ while(again.ToLower() == "a"){
     Console.WriteLine();
     Console.WriteLine();
     Console.WriteLine("====================================================");
-    Console.WriteLine($"První číslo: {aaa}, další číslo: {bbb}");
+    Console.WriteLine($"Zadané číslo: {number}");
     Console.WriteLine("====================================================");
     Console.WriteLine();
     Console.WriteLine();
 
 
    // Zde budeme pokračovat konkrétním algoritmem
+
+    // Příprava pomocných proměnných pro výpočet
+    int numberBackup = number;
+    int sum = 0;    // Neutrální hodnota pro sčítání je 0
+    int digit;      // Proměnná pro uložení právě zjištěné číslice   
 
 }
