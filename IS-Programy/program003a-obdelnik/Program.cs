@@ -49,7 +49,21 @@ while(again.ToLower() == "a"){
     // Jádro vykreslovacího algoritmu
     // Vnější cyklus, který nám bude hlídat počet řádků
     for (int i = 1; i <= height; i++){
-        Console.WriteLine(" ");
+
+        // Střídání barev
+        if (i % 2 == 0){
+            Console.ForegroundColor = ConsoleColor.Red;
+        } else {
+            Console.ForegroundColor = ConsoleColor.Green;
+        }
+
+        // Vnitřní cyklus, který v každém řádku vykreslí správný počet znaků
+        for (int j = 1; j <= width; j++){
+            Console.Write("*  ");    
+            System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100)); // Efekt animace vykreslování (zpoždění)
+        }
+        Console.WriteLine("");
+        Console.ResetColor();
     }
 
 
@@ -57,6 +71,7 @@ while(again.ToLower() == "a"){
 
     // Dotaz směrem k uživateli na opakování
 
+    Console.WriteLine("");
     Console.Write("Pro opakování programu stiskněte klávesu a. Následně potvrďte klávesou Enter:  ");
     again = Console.ReadLine() ?? "";
 
