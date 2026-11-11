@@ -1,0 +1,15 @@
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/bin/Debug/net10.0/program002b-soucin-cifer
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/bin/Debug/net10.0/program002b-soucin-cifer.deps.json
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/bin/Debug/net10.0/program002b-soucin-cifer.runtimeconfig.json
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/bin/Debug/net10.0/program002b-soucin-cifer.dll
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/bin/Debug/net10.0/program002b-soucin-cifer.pdb
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/program002b-soucin-cifer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/program002b-soucin-cifer.AssemblyInfoInputs.cache
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/program002b-soucin-cifer.AssemblyInfo.cs
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/program002b-soucin-cifer.csproj.CoreCompileInputs.cache
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/program002b-soucin-cifer.sourcelink.json
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/program002b-soucin-cifer.dll
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/refint/program002b-soucin-cifer.dll
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/program002b-soucin-cifer.pdb
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/program002b-soucin-cifer.genruntimeconfig.cache
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program002b-soucin-cifer/obj/Debug/net10.0/ref/program002b-soucin-cifer.dll
