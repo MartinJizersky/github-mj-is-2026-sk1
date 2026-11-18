@@ -1,0 +1,15 @@
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator.deps.json
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator.runtimeconfig.json
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator.dll
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator.pdb
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.AssemblyInfoInputs.cache
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.AssemblyInfo.cs
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.csproj.CoreCompileInputs.cache
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.sourcelink.json
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.dll
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/refint/program004a-generator.dll
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.pdb
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.genruntimeconfig.cache
+/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program004a-generator/obj/Debug/net10.0/ref/program004a-generator.dll
