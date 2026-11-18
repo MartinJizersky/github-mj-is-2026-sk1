@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program003a-obdelnik/program003b-pravouhly-trojuhelnik/program003b-pravouhly-trojuhelnik.csproj",
+      "projectUniqueName": "/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program003b-pravouhly-trojuhelnik/program003b-pravouhly-trojuhelnik.csproj",
       "projectName": "program003b-pravouhly-trojuhelnik",
-      "projectPath": "/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program003a-obdelnik/program003b-pravouhly-trojuhelnik/program003b-pravouhly-trojuhelnik.csproj",
+      "projectPath": "/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program003b-pravouhly-trojuhelnik/program003b-pravouhly-trojuhelnik.csproj",
       "packagesPath": "/Users/martinjizersky/.nuget/packages/",
-      "outputPath": "/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program003a-obdelnik/program003b-pravouhly-trojuhelnik/obj/",
+      "outputPath": "/Users/martinjizersky/Documents/Codes/IS2026/github-mj-is-2026-sk1/IS-Programy/program003b-pravouhly-trojuhelnik/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/martinjizersky/.nuget/NuGet/NuGet.Config"
