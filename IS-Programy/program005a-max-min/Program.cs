@@ -88,6 +88,42 @@ while(again.ToLower() == "a"){
     Console.WriteLine($"Pozice prvního minima: {posMin}");
     Console.WriteLine("====================================================");
 
+
+    // Vykreslení přesýpacích hodin
+    if(max >= 3){
+        // Vnější cyklus řídí vykreslování jednotlivých řádků
+        for(int i = 0; i < max; i++){
+            int spaces = 0;     // Počet mezer
+            int stars = 0;      // Počet hvězdíček(*)
+
+            if (i < max/2){
+                // Horní polovina
+                // Počet mezer je přímo úměrný proměnné i
+                spaces = i;
+                // Hvezdičky ubývají o dvě na každém řádku
+                stars = max - (2 * i);
+            } else {
+                // Dolní polovina
+                // TO-DO: Doplit dolní polovinu
+            }
+
+            // Samostatné vykreslení aktuálního řádku
+            // Nejprve vykreslujeme mezery
+            for(int sp = 0; sp < spaces; sp++){
+                Console.Write(" ");
+            }
+            // Následně vykreslujeme hvězdičky
+            for(int st = 0; st < stars; st++){
+                Console.Write("*");
+            }
+
+            Console.WriteLine();
+        }
+    }
+    else {
+        Console.WriteLine("Maximum je menší než 3 => obrazec se nevykreslí!");
+    }
+
     // Dotaz směrem k uživateli na opakování
     Console.WriteLine("");
     Console.Write("Pro opakování programu stiskněte klávesu a. Následně potvrďte klávesou Enter:  ");
