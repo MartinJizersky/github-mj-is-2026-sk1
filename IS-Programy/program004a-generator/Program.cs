@@ -58,7 +58,8 @@ while(again.ToLower() == "a"){
     int positive = 0;
     int negative = 0;
     int zero = 0;
-
+    int even = 0;
+    int odd = 0;
 
     Console.WriteLine("Vygenerováná pseudonáhodná čísla:  ");
     for (int i = 0; i < myRandNumbs.Length; i++) {
@@ -71,11 +72,22 @@ while(again.ToLower() == "a"){
             positive++;
         else
             zero++;
+
+        // Sudá nebo lichá čísla
+        if(myRandNumbs[i] % 2 == 0)
+            even++;
+        else    
+            odd++;
     }
+
     Console.WriteLine("");
+    Console.WriteLine("=======================================");
     Console.WriteLine($"Počet kladných čísel: {positive}");
     Console.WriteLine($"Počet záporných čísel: {negative}");
     Console.WriteLine($"Počet nul: {zero}");
+    Console.WriteLine($"Počet sudých čísel: {even}");
+    Console.WriteLine($"Počet lichých čísel: {odd}");
+    Console.WriteLine("=======================================");
 
 
     // Dotaz směrem k uživateli na opakování
